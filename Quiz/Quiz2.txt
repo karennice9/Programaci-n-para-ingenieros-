@@ -56,7 +56,6 @@ e. from scipy.linalg import my_inv
 ANSWER: C
 
 
-Pregunta 6
 Una lista de python contiene practicamente de todo, Para construir un subconjunto de lista de listas, ud. puede utilizar la misma tecnica anterior, x = [[10, 20, 30, 40],[21, 31, 41, 51],[33, 43, 53, 63],[54, 64, 74, 84]], Que retornara el valor x[-1][2]?
 Seleccione una:
 
